@@ -1,2 +1,2 @@
-# Data_Analysis_Pokemon
+# Data analysis - Pokemon dataset
 Pokemon dataset analysis using the Pandas library 
